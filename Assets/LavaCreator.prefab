@@ -64,5 +64,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a0975476e2a8114aac6087bd6deb12c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 0
+  max: 60
   lavalObject: {fileID: 1092623348781768, guid: dbd404078c827ca49a384dafb872502e,
     type: 2}

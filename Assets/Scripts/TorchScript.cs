@@ -6,10 +6,14 @@ public class TorchScript : MonoBehaviour {
 
     public Sprite[] sprites;
 
-    bool lit = false;
+    public bool lit = false;
 	// Use this for initialization
 	void Start () {
-		
+		if(lit == true)
+        {
+            GetComponent<SpriteRenderer>().sprite = sprites[1];
+            IsLit = true;
+        }
 	}
 	
 	// Update is called once per frame

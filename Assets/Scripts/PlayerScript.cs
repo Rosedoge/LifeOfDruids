@@ -156,6 +156,7 @@ public class PlayerScript : MonoBehaviour {
     {
         if (other.tag.Contains("Killzone") || other.tag.Contains("Lavafall"))
         {
+            InControl = false;
             myAnimator.SetTrigger("Death");
             myRigid.gravityScale = 0;
             Invoke("Reset", 2f);
