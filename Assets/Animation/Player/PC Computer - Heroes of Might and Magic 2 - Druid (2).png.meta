@@ -1,0 +1,1190 @@
+fileFormatVersion: 2
+guid: 75cf8294564aa7f4ba027cb1208a259d
+timeCreated: 1516650409
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Heroes of Might and Magic 2 - Druid (2)_0
+    21300002: PC Computer - Heroes of Might and Magic 2 - Druid (2)_1
+    21300004: PC Computer - Heroes of Might and Magic 2 - Druid (2)_2
+    21300006: PC Computer - Heroes of Might and Magic 2 - Druid (2)_3
+    21300008: PC Computer - Heroes of Might and Magic 2 - Druid (2)_4
+    21300010: PC Computer - Heroes of Might and Magic 2 - Druid (2)_5
+    21300012: PC Computer - Heroes of Might and Magic 2 - Druid (2)_6
+    21300014: PC Computer - Heroes of Might and Magic 2 - Druid (2)_7
+    21300016: PC Computer - Heroes of Might and Magic 2 - Druid (2)_8
+    21300018: PC Computer - Heroes of Might and Magic 2 - Druid (2)_9
+    21300020: PC Computer - Heroes of Might and Magic 2 - Druid (2)_10
+    21300022: PC Computer - Heroes of Might and Magic 2 - Druid (2)_11
+    21300024: PC Computer - Heroes of Might and Magic 2 - Druid (2)_12
+    21300026: PC Computer - Heroes of Might and Magic 2 - Druid (2)_13
+    21300028: PC Computer - Heroes of Might and Magic 2 - Druid (2)_14
+    21300030: PC Computer - Heroes of Might and Magic 2 - Druid (2)_15
+    21300032: PC Computer - Heroes of Might and Magic 2 - Druid (2)_16
+    21300034: PC Computer - Heroes of Might and Magic 2 - Druid (2)_17
+    21300036: PC Computer - Heroes of Might and Magic 2 - Druid (2)_18
+    21300038: PC Computer - Heroes of Might and Magic 2 - Druid (2)_19
+    21300040: PC Computer - Heroes of Might and Magic 2 - Druid (2)_20
+    21300042: PC Computer - Heroes of Might and Magic 2 - Druid (2)_21
+    21300044: PC Computer - Heroes of Might and Magic 2 - Druid (2)_22
+    21300046: PC Computer - Heroes of Might and Magic 2 - Druid (2)_23
+    21300048: PC Computer - Heroes of Might and Magic 2 - Druid (2)_24
+    21300050: PC Computer - Heroes of Might and Magic 2 - Druid (2)_25
+    21300052: PC Computer - Heroes of Might and Magic 2 - Druid (2)_26
+    21300054: PC Computer - Heroes of Might and Magic 2 - Druid (2)_27
+    21300056: PC Computer - Heroes of Might and Magic 2 - Druid (2)_28
+    21300058: PC Computer - Heroes of Might and Magic 2 - Druid (2)_29
+    21300060: PC Computer - Heroes of Might and Magic 2 - Druid (2)_30
+    21300062: PC Computer - Heroes of Might and Magic 2 - Druid (2)_31
+    21300064: PC Computer - Heroes of Might and Magic 2 - Druid (2)_32
+    21300066: PC Computer - Heroes of Might and Magic 2 - Druid (2)_33
+    21300068: PC Computer - Heroes of Might and Magic 2 - Druid (2)_34
+    21300070: PC Computer - Heroes of Might and Magic 2 - Druid (2)_35
+    21300072: PC Computer - Heroes of Might and Magic 2 - Druid (2)_36
+    21300074: PC Computer - Heroes of Might and Magic 2 - Druid (2)_37
+    21300076: PC Computer - Heroes of Might and Magic 2 - Druid (2)_38
+    21300078: PC Computer - Heroes of Might and Magic 2 - Druid (2)_39
+    21300080: PC Computer - Heroes of Might and Magic 2 - Druid (2)_40
+    21300082: PC Computer - Heroes of Might and Magic 2 - Druid (2)_41
+    21300084: PC Computer - Heroes of Might and Magic 2 - Druid (2)_42
+    21300086: PC Computer - Heroes of Might and Magic 2 - Druid (2)_43
+    21300088: PC Computer - Heroes of Might and Magic 2 - Druid (2)_44
+    21300090: PC Computer - Heroes of Might and Magic 2 - Druid (2)_45
+    21300092: PC Computer - Heroes of Might and Magic 2 - Druid (2)_46
+    21300094: PC Computer - Heroes of Might and Magic 2 - Druid (2)_47
+    21300096: PC Computer - Heroes of Might and Magic 2 - Druid (2)_48
+    21300098: PC Computer - Heroes of Might and Magic 2 - Druid (2)_49
+    21300100: PC Computer - Heroes of Might and Magic 2 - Druid (2)_50
+    21300102: PC Computer - Heroes of Might and Magic 2 - Druid (2)_51
+    21300104: PC Computer - Heroes of Might and Magic 2 - Druid (2)_52
+    21300106: PC Computer - Heroes of Might and Magic 2 - Druid (2)_53
+    21300108: PC Computer - Heroes of Might and Magic 2 - Druid (2)_54
+    21300110: PC Computer - Heroes of Might and Magic 2 - Druid (2)_55
+    21300112: PC Computer - Heroes of Might and Magic 2 - Druid (2)_56
+    21300114: PC Computer - Heroes of Might and Magic 2 - Druid (2)_57
+    21300116: PC Computer - Heroes of Might and Magic 2 - Druid (2)_58
+    21300118: PC Computer - Heroes of Might and Magic 2 - Druid (2)_59
+    21300120: PC Computer - Heroes of Might and Magic 2 - Druid (2)_60
+    21300122: PC Computer - Heroes of Might and Magic 2 - Druid (2)_61
+    21300124: PC Computer - Heroes of Might and Magic 2 - Druid (2)_62
+    21300126: PC Computer - Heroes of Might and Magic 2 - Druid (2)_63
+    21300128: PC Computer - Heroes of Might and Magic 2 - Druid (2)_64
+    21300130: PC Computer - Heroes of Might and Magic 2 - Druid (2)_65
+    21300132: PC Computer - Heroes of Might and Magic 2 - Druid (2)_66
+    21300134: PC Computer - Heroes of Might and Magic 2 - Druid (2)_67
+    21300136: PC Computer - Heroes of Might and Magic 2 - Druid (2)_68
+    21300138: PC Computer - Heroes of Might and Magic 2 - Druid (2)_69
+    21300140: PC Computer - Heroes of Might and Magic 2 - Druid (2)_70
+    21300142: PC Computer - Heroes of Might and Magic 2 - Druid (2)_71
+    21300144: PC Computer - Heroes of Might and Magic 2 - Druid (2)_72
+    21300146: PC Computer - Heroes of Might and Magic 2 - Druid (2)_73
+    21300148: PC Computer - Heroes of Might and Magic 2 - Druid (2)_74
+    21300150: PC Computer - Heroes of Might and Magic 2 - Druid (2)_75
+    21300152: PC Computer - Heroes of Might and Magic 2 - Druid (2)_76
+    21300154: PC Computer - Heroes of Might and Magic 2 - Druid (2)_77
+    21300156: PC Computer - Heroes of Might and Magic 2 - Druid (2)_78
+    21300158: PC Computer - Heroes of Might and Magic 2 - Druid (2)_79
+    21300160: PC Computer - Heroes of Might and Magic 2 - Druid (2)_80
+    21300162: PC Computer - Heroes of Might and Magic 2 - Druid (2)_81
+    21300164: PC Computer - Heroes of Might and Magic 2 - Druid (2)_82
+    21300166: PC Computer - Heroes of Might and Magic 2 - Druid (2)_83
+    21300168: PC Computer - Heroes of Might and Magic 2 - Druid (2)_84
+    21300170: PC Computer - Heroes of Might and Magic 2 - Druid (2)_85
+    21300172: PC Computer - Heroes of Might and Magic 2 - Druid (2)_86
+    21300174: PC Computer - Heroes of Might and Magic 2 - Druid (2)_87
+    21300176: PC Computer - Heroes of Might and Magic 2 - Druid (2)_88
+    21300178: PC Computer - Heroes of Might and Magic 2 - Druid (2)_89
+    21300180: PC Computer - Heroes of Might and Magic 2 - Druid (2)_90
+    21300182: PC Computer - Heroes of Might and Magic 2 - Druid (2)_91
+    21300184: PC Computer - Heroes of Might and Magic 2 - Druid (2)_92
+    21300186: PC Computer - Heroes of Might and Magic 2 - Druid (2)_93
+    21300188: PC Computer - Heroes of Might and Magic 2 - Druid (2)_94
+    21300190: PC Computer - Heroes of Might and Magic 2 - Druid (2)_95
+    21300192: PC Computer - Heroes of Might and Magic 2 - Druid (2)_96
+    21300194: PC Computer - Heroes of Might and Magic 2 - Druid (2)_97
+    21300196: PC Computer - Heroes of Might and Magic 2 - Druid (2)_98
+    21300198: PC Computer - Heroes of Might and Magic 2 - Druid (2)_99
+    21300200: PC Computer - Heroes of Might and Magic 2 - Druid (2)_100
+    21300202: PC Computer - Heroes of Might and Magic 2 - Druid (2)_101
+    21300204: PC Computer - Heroes of Might and Magic 2 - Druid (2)_102
+    21300206: PC Computer - Heroes of Might and Magic 2 - Druid (2)_103
+    21300208: PC Computer - Heroes of Might and Magic 2 - Druid (2)_104
+    21300210: PC Computer - Heroes of Might and Magic 2 - Druid (2)_105
+    21300212: PC Computer - Heroes of Might and Magic 2 - Druid (2)_106
+    21300214: PC Computer - Heroes of Might and Magic 2 - Druid (2)_107
+    21300216: PC Computer - Heroes of Might and Magic 2 - Druid (2)_108
+    21300218: PC Computer - Heroes of Might and Magic 2 - Druid (2)_109
+    21300220: PC Computer - Heroes of Might and Magic 2 - Druid (2)_110
+    21300222: PC Computer - Heroes of Might and Magic 2 - Druid (2)_111
+    21300224: PC Computer - Heroes of Might and Magic 2 - Druid (2)_112
+    21300226: PC Computer - Heroes of Might and Magic 2 - Druid (2)_113
+    21300228: PC Computer - Heroes of Might and Magic 2 - Druid (2)_114
+    21300230: PC Computer - Heroes of Might and Magic 2 - Druid (2)_115
+    21300232: PC Computer - Heroes of Might and Magic 2 - Druid (2)_116
+    21300234: PC Computer - Heroes of Might and Magic 2 - Druid (2)_117
+    21300236: PC Computer - Heroes of Might and Magic 2 - Druid (2)_118
+    21300238: PC Computer - Heroes of Might and Magic 2 - Druid (2)_119
+    21300240: PC Computer - Heroes of Might and Magic 2 - Druid (2)_120
+    21300242: PC Computer - Heroes of Might and Magic 2 - Druid (2)_121
+    21300244: PC Computer - Heroes of Might and Magic 2 - Druid (2)_122
+    21300246: PC Computer - Heroes of Might and Magic 2 - Druid (2)_123
+    21300248: PC Computer - Heroes of Might and Magic 2 - Druid (2)_124
+    21300250: PC Computer - Heroes of Might and Magic 2 - Druid (2)_125
+    21300252: PC Computer - Heroes of Might and Magic 2 - Druid (2)_126
+    21300254: PC Computer - Heroes of Might and Magic 2 - Druid (2)_127
+    21300256: PC Computer - Heroes of Might and Magic 2 - Druid (2)_128
+    21300258: PC Computer - Heroes of Might and Magic 2 - Druid (2)_129
+    21300260: PC Computer - Heroes of Might and Magic 2 - Druid (2)_130
+    21300262: PC Computer - Heroes of Might and Magic 2 - Druid (2)_131
+    21300264: PC Computer - Heroes of Might and Magic 2 - Druid (2)_132
+    21300266: PC Computer - Heroes of Might and Magic 2 - Druid (2)_133
+    21300268: PC Computer - Heroes of Might and Magic 2 - Druid (2)_134
+    21300270: PC Computer - Heroes of Might and Magic 2 - Druid (2)_135
+    21300272: PC Computer - Heroes of Might and Magic 2 - Druid (2)_136
+    21300274: PC Computer - Heroes of Might and Magic 2 - Druid (2)_137
+    21300276: PC Computer - Heroes of Might and Magic 2 - Druid (2)_138
+    21300278: PC Computer - Heroes of Might and Magic 2 - Druid (2)_139
+    21300280: PC Computer - Heroes of Might and Magic 2 - Druid (2)_140
+    21300282: PC Computer - Heroes of Might and Magic 2 - Druid (2)_141
+    21300284: PC Computer - Heroes of Might and Magic 2 - Druid (2)_142
+    21300286: PC Computer - Heroes of Might and Magic 2 - Druid (2)_143
+    21300288: PC Computer - Heroes of Might and Magic 2 - Druid (2)_144
+    21300290: PC Computer - Heroes of Might and Magic 2 - Druid (2)_145
+    21300292: PC Computer - Heroes of Might and Magic 2 - Druid (2)_146
+    21300294: PC Computer - Heroes of Might and Magic 2 - Druid (2)_147
+    21300296: PC Computer - Heroes of Might and Magic 2 - Druid (2)_148
+    21300298: PC Computer - Heroes of Might and Magic 2 - Druid (2)_149
+    21300300: PC Computer - Heroes of Might and Magic 2 - Druid (2)_150
+    21300302: PC Computer - Heroes of Might and Magic 2 - Druid (2)_151
+    21300304: PC Computer - Heroes of Might and Magic 2 - Druid (2)_152
+    21300306: PC Computer - Heroes of Might and Magic 2 - Druid (2)_153
+    21300308: PC Computer - Heroes of Might and Magic 2 - Druid (2)_154
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 490
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 490
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 490
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 490
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 490
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 532
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_6
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 532
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 532
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_8
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 532
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 486
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_10
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 486
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_11
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 486
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_12
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 486
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 392
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 392
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 392
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 392
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 392
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_18
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 392
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_19
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 392
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_20
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 392
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_21
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 391
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_22
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 391
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_23
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 391
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_24
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 391
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 291
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 291
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 291
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 292
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 292
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_30
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 292
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_31
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 292
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_32
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 291
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_33
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 290
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_34
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 290
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_35
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 290
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_36
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 290
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_37
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 188
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 188
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 188
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_40
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_41
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_43
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_44
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 187
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_45
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 187
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_46
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 247
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 187
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_48
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 188
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 122
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_50
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 125
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_51
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 134
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 138
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_53
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 138
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_54
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 138
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_55
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 138
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_56
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 98
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_57
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 98
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_58
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 98
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_59
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 98
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_60
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 136
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_61
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 98
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_62
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 85
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_63
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 8
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_64
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 8
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_65
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 9
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 2 - Druid (2)_66
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 9
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
